@@ -1,1 +1,8 @@
 **/.ipynb_checkpoints/
+
+# figures saved when the solutions are run
+solutions/*.png
+# files created when the exercises are run (img/ and data/ are not affected)
+exercises/*.png
+exercises/*.pdf
+exercises/*.csv
