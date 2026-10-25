@@ -72,7 +72,9 @@ _ANSWERS = json.loads(base64.b64decode(
     'MC4xNjY2NjY2NjY2NjY2NjY2NiwgInRvbCI6IDAuMDUsICJoaW50IjogIk1ha2UgZGllMiB0aGUgc2FtZSB3YXkgYXMgZGll'
     'MSwgdGhlbiB0YWtlIHRoZSBtZWFuIG9mIChkaWUxICsgZGllMiA9PSA3KS4ifSwgInN3aXRjaCI6IHsiZXhwZWN0ZWQiOiAw'
     'LjY2NjY2NjY2NjY2NjY2NjYsICJ0b2wiOiAwLjEsICJoaW50IjogIlRoZSB0aHJlZSBib3ggaW5kaWNlcyBhZGQgdXAgdG8g'
-    'MCArIDEgKyAyID0gMy4gV2hpY2ggaW5kZXggaXMgbmVpdGhlciBwaWNrIG5vciBzaG93PyJ9fQ=='
+    'MCArIDEgKyAyID0gMy4gV2hpY2ggaW5kZXggaXMgbmVpdGhlciBwaWNrIG5vciBzaG93PyJ9LCAiaW5jb21wbGV0ZSBjaGVt'
+    'aXN0cnkiOiB7ImV4cGVjdGVkIjogNzIsICJoaW50IjogIkV2ZXJ5IHJvdyBvZiBkZl90aWR5IGlzIGVpdGhlciBpbiBkZl9W'
+    'dGlkeSAoY29tcGxldGUgY2hlbWlzdHJ5KSBvciBub3QuIENvbXBhcmUgdGhlaXIgbGVuZ3RocyB3aXRoIGxlbigpLiJ9fQ=='
 ).decode())
 
 
