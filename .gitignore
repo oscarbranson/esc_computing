@@ -6,3 +6,5 @@ solutions/*.png
 exercises/*.png
 exercises/*.pdf
 exercises/*.csv
+# Python cache created when check.py is imported
+__pycache__/
